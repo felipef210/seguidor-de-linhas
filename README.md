@@ -14,5 +14,5 @@
 
 <div display="inline">
   <img src="https://img.shields.io/badge/c-blue" height="25" width="30"/>
-  <img src="https://img.shields.io/badge/Arduino-blue" height="25" width="30"/>
+  <img src="https://img.shields.io/badge/Arduino-blue" height="25"/>
 </div>
